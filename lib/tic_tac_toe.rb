@@ -104,6 +104,7 @@ class TicTacToe
 				print "Cat\'s Game!"
 			end
 	end
+	end
 	  
 	  
 end
