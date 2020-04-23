@@ -95,14 +95,8 @@ class TicTacToe
 	  end
 	  
 	  	def play(game)
-			@game = game
-			until @game.over?
-			  current_player.turn
-			end 
-		
-
-
-		end
+        
+		  end
 	  
 	  
 end
