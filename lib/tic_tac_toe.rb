@@ -103,6 +103,7 @@ class TicTacToe
 			elsif draw?
 				print "Cat\'s Game!"
 			end
+		end 
 	  
 	  
 end
