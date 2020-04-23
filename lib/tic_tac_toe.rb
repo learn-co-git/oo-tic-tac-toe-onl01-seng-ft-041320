@@ -95,8 +95,8 @@ class TicTacToe
 	  end
 	  
 	  def play
-		  until over?
-			self.turn
+		  while !over? 
+			current_player.turn
 			end
 			end
 		
