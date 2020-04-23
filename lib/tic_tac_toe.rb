@@ -99,7 +99,7 @@ class TicTacToe
 			self.turn
 			if won?
 				puts "Congradulations #{winner}"
-			if draw?
+			elsif draw?
 				print "Cat\'s Game!"
 			end
 		end 
